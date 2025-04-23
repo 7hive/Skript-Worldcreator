@@ -11,7 +11,7 @@
 **Step 3:** Reload the skript, using `/skript reload worldcreator.sk`
 
 ## Command usage
-To create world, type command `/worldcreator <WorldName> <WorldType`
+To create world, type command `/worldcreator <WorldName> <WorldType>`
 
 ## Configuration:
 ``` sk
