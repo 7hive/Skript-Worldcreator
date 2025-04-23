@@ -11,22 +11,7 @@
 **Step 3:** Reload the skript, using `/skript reload worldcreator.sk`
 
 ## Command usage
-To create world, type command `/worldcreator <WorldName>`
-
-### Command arguments:
-#### 1st argument: 
-`<WorldName>` - enter name of the world
-
-#### 2st argument:
-
-- #### **Optional world options:**
-- - `--flat` - create a flat world
-
-- - `--void` - create a void world
-
-- - `teleport` - teleport to *created* world at location x: 0, y: 0 and z: 0
-
-Usage: `/worldcreator <WorldName> --flat`
+To create world, type command `/worldcreator <WorldName> <WorldType`
 
 ## Configuration:
 ``` sk
